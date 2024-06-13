@@ -3,7 +3,7 @@
 ## Build from Source
 
 ```
-git clone https://github.com/WebCryptojacking/WRXProxy.git
+git clone git@github.com:WebCryptojacking/WRXProxy.git
 cd WRXProxy && npm install
 ```
 
